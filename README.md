@@ -2,8 +2,6 @@
 
 Um site moderno e responsivo desenvolvido para aprimorar minhas habilidades em HTML, CSS e JavaScript.
 
-Badge
-Badge
 
 🚀 Sobre o Projeto
 A Luxury Cars é um projeto desenvolvido para explorar conceitos essenciais de desenvolvimento front-end. Ele apresenta um design moderno e uma estrutura responsiva, garantindo uma ótima experiência em dispositivos móveis, tablets e desktops.
