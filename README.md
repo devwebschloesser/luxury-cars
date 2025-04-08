@@ -1,5 +1,13 @@
 🚗 Luxury Cars
 
+
+
+
+
+![Captura de tela 2025-04-07 220406](https://github.com/user-attachments/assets/5a4658f8-2fb3-4ce3-abfe-38ae66b7aadd)
+
+
+
 Um site moderno e responsivo desenvolvido para aprimorar minhas habilidades em HTML, CSS e JavaScript.
 
 
@@ -21,6 +29,6 @@ Git & GitHub → Versionamento de código
 
 
 🔗 Acesse meus Projetos
-📞 Contato Se tiver dúvidas ou sugestões, chame-me:
+ Se tiver dúvidas ou sugestões, chame-me:
 
 📧 Email: [devwebschloesser@gmail.com] 🔗 LinkedIn:https://www.linkedin.com/in/leonardo-schloesser-0043a81b3/ 🐙 GitHub: https://github.com/devwebschloesser
